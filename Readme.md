@@ -38,7 +38,39 @@
 ![image](https://github.com/jongwon-kr/omokGame/assets/76871947/77163e4a-8c85-4585-afec-b034d86b84f2)
 
 #### playerB와 매칭
-![image](https://github.com/jongwon-kr/omokGame/assets/76871947/cb4413e2-6087-4393-923d-9ce0943af8a6)
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/8898f4a2-4ee6-4c4f-8ab8-c5d8f092be78)
 
+#### 본인의 차례에 시간 표시
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/7ddeadfe-70a5-448e-a59e-8e525a0afb77)
+
+#### 승리, 패배 표시
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/6311ae61-e5ea-4d11-9063-5fc18e848475)
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/b6c37e1a-9b44-4f81-87c7-aa4d9e7d609a)
+
+#### 채팅 기능
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/3daed499-b801-4e07-8ebc-097589298e4f)
+
+#### 컴퓨터와 대결 선택
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/94066b28-89dd-40b8-a4c3-6d46c6b59439)
+
+#### 후공 컴퓨터가 먼저 돌을 놓는다
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/db374dfb-58db-4342-ba99-0e29c292e67b)
+
+#### 플레이어가 돌을 놓으면 컴퓨터는 가중치를 계산하여 다음 돌은 놓음 9 = 컴퓨터 10 = 사용자
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/bf9a3fad-3348-4109-a05c-06b4d926f701)
+
+#### 
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/d2cf0430-a219-4527-a559-0080c2923bc4)
+
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/d1c89dd6-c987-4344-b57f-3d0425b48138)
+
+#### 컴퓨터가 승리
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/34ddcf11-d1dc-4146-88a2-78572cbf4548)
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/75dfd7c5-5bd5-48d4-831c-2ce6de1118cc)
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/27248f6e-b622-4c4f-a7d9-c3a18b61ef92)
+
+#### 메뉴바를 이용하여 다시 시작 가능
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/e8e8d940-e922-4e21-9b0d-523c3ad700f6)
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/2e2ac79e-55c5-493c-90a7-e7815ec9f50a)
 
 ## END
