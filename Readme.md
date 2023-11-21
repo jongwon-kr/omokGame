@@ -1,15 +1,14 @@
-# 원격통신 및 제어 프로그램
+# 1:1 매칭 및 인공지능 대결 오목게임
 ## 프로젝트 설명
-PC에 문제가 생겨 원격으로 PC조작이 필요한 상황처럼 PC를 원격에서 이용해야 되는 상황이 발생하게 되었을 때 사용자에게 네트워크를 통해 원격으로 PC를 조작하고 파일을 전송하고 받을 수 있고 음성 통화를 지원하기 위해 제작 되었다.
+클라이언트-서버 통신을 통한 1:1 대결, 인공지능 컴퓨터와 대결 서비스를 구현하기 위해 제작
 
 ## 서비스 내용
-- 로그인 및 고유 키 발급
-- 원격 제어
-- 음성 통화
-- 파일 전송
+- 오목게임
+- 사용자 1:1 대결
+- 인공지능 컴퓨터와 대결
 
 ## 프로젝트 기간
-2022.10 ~ 2022. 12
+2022.01 ~ 2022.03
 
 ## 개발 환경 및 언어
 - Eclipse
@@ -19,5 +18,21 @@ PC에 문제가 생겨 원격으로 PC조작이 필요한 상황처럼 PC를 원
 - Swing
 
 ## 이미지
+### 서버
+#### 서버 가동 시 콘솔 화면, 클라이언트 접속 시 클라이언트, 접속자 수 표시
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/f45cf1ff-a80b-4a6b-aa1f-523e598ff49a)
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/b105549e-88c3-4579-958a-5656d671bcdd)
+
+
+### 클라이언트
+#### 메인 화면
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/ff730f30-a5e6-4848-b479-3f3f1dadf3be)
+
+#### playerA로 접속
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/8d8d6924-8833-4ab7-bb84-e7475da96ecf)
+
+#### 1:1 대결 선택
+![image](https://github.com/jongwon-kr/omokGame/assets/76871947/e403b7f5-6aa1-4614-ab95-3403667261a2)
+
 
 ## END
